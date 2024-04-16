@@ -1,0 +1,21 @@
+body {
+    color: #ffff;
+    background: #000000
+    
+}
+.txt0 {
+    text-align: center;
+    padding: 0px 400px;
+}
+.txt1 {
+    text-align: center;
+    padding: 0px 400px;
+}
+a {
+    color: #808080;
+}
+img {
+    text-align: center;
+    width: 300px;
+    heigh: 100px;
+}

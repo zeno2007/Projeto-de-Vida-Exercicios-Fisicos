@@ -4,15 +4,16 @@ body {
     text-align: center;
 }
 .txt0 {
-    
+    text-align: center
 }
 .txt1 {
-    
+    text-align: center
 }
 a {
     color: #808080;
 }
 img {
+    text-align: center
     width: 300px;
     heigh: 100px;
 }

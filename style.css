@@ -1,23 +1,29 @@
-
 * {
-    color: #ffff;
+    color: #ffffff;
     background: black;
     text-align: center;
 }
 
 body {
-
+    margin: 0;
+    padding: 0;
 }
-.txt0 {
 
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
 }
-.txt1 {
 
+.txt0, .txt1 {
+    margin-bottom: 30px;
 }
+
 a {
     color: #808080;
 }
+
 img {
-    width: 300px;
-    heigh: 100px;
+    max-width: 100%;
+    height: auto;
 }

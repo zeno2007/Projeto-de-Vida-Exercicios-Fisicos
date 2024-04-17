@@ -27,3 +27,14 @@ img {
     max-width: 100%;
     height: auto;
 }
+::-webkit-scrollbar-thumb{
+    width: 10px;
+    background-color: #000000;
+    border: 5px solid #000000;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #808080;
+    border-radius: 50px;
+    border: 2px solid #000000;
+}
+    

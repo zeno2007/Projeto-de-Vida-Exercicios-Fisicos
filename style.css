@@ -1,7 +1,12 @@
-body {
+
+* {
     color: #ffff;
-    background: #000000;
+    background: black;
     text-align: center;
+}
+
+body {
+
 }
 .txt0 {
 
